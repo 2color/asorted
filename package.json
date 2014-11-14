@@ -1,0 +1,30 @@
+{
+  "name": "asorted.js",
+  "version": "0.0.1",
+  "description": "Fast and efficient sorted arrays in JavaScript",
+  "main": "asorted.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/2color/asorted.js.git"
+  },
+  "keywords": [
+    "JavaScript",
+    "js",
+    "array",
+    "binary",
+    "serach",
+    "objects",
+    "json",
+    "reactjs",
+    "fluxjs"
+  ],
+  "author": "Daniel Norman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/2color/asorted.js/issues"
+  },
+  "homepage": "https://github.com/2color/asorted.js"
+}
