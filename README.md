@@ -3,7 +3,7 @@ Fast sorted array in Javascript. Uses binary search for addition and deletion.
 
 ## Installation
 
-**node.js** `Asorted = require('./asorted')`
+**node.js** `npm install asorted`
 
 ## Examples
 
@@ -33,8 +33,8 @@ This however is just for finding the appropriate index. The splice operation is 
 Modern browsers heavily optimize these operations but the since this uses a dynamic array the worst case could be O(n).
 
 ## Roadmap
-- Implemenet sorted arrays of objects. When working with flux.js stores, I normally
+- ~~Implemenet sorted arrays of objects. When working with flux.js stores, I normally
 use native arrays for lists. Coming from backbone.js which has collections which are
 basically fancy arrays I need a replacement which can keep an array of objects
-sorted based on a given key. So that's the plan. Pull requests are welcome.
+sorted based on a given key. So that's the plan. Pull requests are welcome.~~
 - Get this on bower, npm and whatever-package-manger-is-now-cool

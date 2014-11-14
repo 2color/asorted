@@ -1,5 +1,5 @@
 {
-  "name": "asorted.js",
+  "name": "asorted",
   "version": "0.0.1",
   "description": "Fast and efficient sorted arrays in JavaScript",
   "main": "asorted.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/2color/asorted.js.git"
+    "url": "https://github.com/2color/asorted.git"
   },
   "keywords": [
     "JavaScript",
@@ -24,7 +24,7 @@
   "author": "Daniel Norman",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/2color/asorted.js/issues"
+    "url": "https://github.com/2color/asorted/issues"
   },
-  "homepage": "https://github.com/2color/asorted.js"
+  "homepage": "https://github.com/2color/asorted"
 }
