@@ -25,7 +25,7 @@ Asorted.prototype.remove = function (value) {
 
 Asorted.prototype._sortedIndex = function(value) {
   var array = this.array;
-  var low = 0
+  var low = 0;
   var high = array.length;
 
   while (low < high) {
@@ -35,7 +35,7 @@ Asorted.prototype._sortedIndex = function(value) {
   }
 
   return low;
-}
+};
 
 Asorted.prototype.search = function (value) {
   var low = 0;
