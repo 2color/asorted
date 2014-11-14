@@ -38,3 +38,4 @@ use native arrays for lists. Coming from backbone.js which has collections which
 basically fancy arrays I need a replacement which can keep an array of objects
 sorted based on a given key. So that's the plan. Pull requests are welcome.~~
 - Get this on bower, npm and whatever-package-manger-is-now-cool
+- Unit tests.... Yes it's coming :)
