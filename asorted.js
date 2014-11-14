@@ -8,7 +8,7 @@ if (typeof module === "object" && typeof module.exports === "object") module.exp
  *          sortBy    string    the key by which to sort objects
  *
  * Example
- * asorted = new Asorted({ sortBy: 'size'}, { name: 'Danny', size: 10 }, { name: 'Linux', size: 9 } );
+ * asorted = new Asorted({ sortBy: 'size'}, { name: 'Danny', size: 10 }, { name: 'Linus', size: 9 } );
  * asorted = new Asorted(4, 42, 8, 16, 15, 23);
  *
  */
