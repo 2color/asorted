@@ -23,12 +23,19 @@ function Asorted() {
   }
 }
 
+/**
+ * Insert
+ *
+ * @param   element   mixed(object or primitive type)
+ *
+ * @return  integer   the index of the added element
+ */
 Asorted.prototype.insert = function (element) {
     var array = this.array;
     var index = this._sortedIndex(element);
     array.splice(index, 0, element);
 
-    return this;
+    return index;
 };
 
 Asorted.prototype.remove = function (element) {

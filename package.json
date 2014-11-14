@@ -1,6 +1,6 @@
 {
   "name": "asorted",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Fast and efficient sorted arrays in JavaScript",
   "main": "asorted.js",
   "scripts": {
